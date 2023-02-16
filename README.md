@@ -21,7 +21,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=orange&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React Router](https://img.shields.io/badge/-ReactRouter-0D1117?style=for-the-badge&logo=React-Router&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React Router](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=React-Router&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
@@ -30,18 +30,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=Github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=Microsoft-Office&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
-![NPM](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=Npm&labelColor=0D1117)&nbsp;
-![Testing Library](https://img.shields.io/badge/-TestingLibrary-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=Microsoft-Office&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
+![NPM](https://img.shields.io/badge/-Npm-0D1117?style=for-the-badge&logo=Npm&labelColor=0D1117)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing_Library-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ### Future knowledge learned:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind.CSS](https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Tailwind.CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
