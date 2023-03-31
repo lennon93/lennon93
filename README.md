@@ -1,6 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
+### Olá, Bem Vindo!
+
+Oi, eu sou o Lennon
+Sou formado em Engenharia Civil, atuo na área desde 2017, na LX Engenharia, mas sempre fui apaixonado por tecnologia, depois de anos trabalhando como Engenheiro Civil, decidi por uma transição de carreira e comecei a estudar Desenvolvimento Web FullStack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
+Desde o inicio de setembro estou cursando a Trybe, aprendendo HTML, Javascript, React, Redux, Git, entre outras tecnologias FullStack.
+Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando agora Back-End, aprendendo Docker, MySQL, SQL e Node.js, entre outros.
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lennon93&show_icons=true&count_public&private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lennon Xavier github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennon93&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -23,6 +32,11 @@
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React Router](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=React-Router&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+### Currently studying:
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -38,9 +52,8 @@
 
 ### Future knowledge learned:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
