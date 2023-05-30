@@ -39,7 +39,7 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 ![React Router](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=React-Router&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React Router](https://img.shields.io/badge/-React_Hooks-0D1117?style=for-the-badge&logo=React-Hooks&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
-![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=Express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
 
