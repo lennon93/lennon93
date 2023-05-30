@@ -37,7 +37,7 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 ## Other skills:
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
 ![React Router](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=React-Router&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Context](https://img.shields.io/badge/-Context-0D1117?style=for-the-badge&logo=Context&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React Router](https://img.shields.io/badge/-React_Hooks-0D1117?style=for-the-badge&logo=React-Hooks&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=Express.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=1572B6&labelColor=0D1117)&nbsp;
