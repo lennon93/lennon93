@@ -51,6 +51,7 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 ![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
 ![NPM](https://img.shields.io/badge/-Npm-0D1117?style=for-the-badge&logo=Npm&labelColor=0D1117)&nbsp;
 ![Testing Library](https://img.shields.io/badge/-Testing_Library-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ## Future knowledge learned:
