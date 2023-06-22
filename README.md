@@ -49,7 +49,7 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Tailwind.CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ## Tools:
@@ -65,7 +65,7 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 
 ## Future knowledge learned:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
 
 
