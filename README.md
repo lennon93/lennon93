@@ -5,7 +5,7 @@
 
 Oi, eu sou o Lennon!
 
- Sou formado em Engenharia Civil, atuo na área desde 2017, na LX Engenharia, mas sempre fui apaixonado por tecnologia, depois de anos trabalhando como Engenheiro Civil, decidi por uma transição de carreira e comecei a estudar Desenvolvimento Web FullStack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  
+ Sou formado em Engenharia Civil, atuei na área desde 2017, na LX Engenharia, mas sempre fui apaixonado por tecnologia, depois de anos trabalhando como Engenheiro Civil, decidi em 2022 por uma transição de carreira e comecei a estudar Desenvolvimento Web FullStack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  
  
 Desde o inicio de setembro estou cursando a Trybe, aprendendo HTML, Javascript, React, Redux, Node,js, Git, entre outras tecnologias FullStack.
 Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando agora Back-End, aprendendo Docker, MySQL, Node.js, Typescrypt, POO entre outros.
