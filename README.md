@@ -5,10 +5,15 @@
 
 Oi, eu sou o Lennon!
 
- Sou formado em Engenharia Civil, atuei na área desde 2017, na LX Engenharia, mas sempre fui apaixonado por tecnologia, depois de anos trabalhando como Engenheiro Civil, decidi em 2022 por uma transição de carreira e comecei a estudar Desenvolvimento Web FullStack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  
- 
-Desde o inicio de setembro estou cursando a Trybe, aprendendo HTML, Javascript, React, Redux, Node,js, Git, entre outras tecnologias FullStack.
-Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando agora Back-End, aprendendo Docker, MySQL, Node.js, Typescrypt, POO entre outros.
+ Sou apaixonado por tecnologia e por criar soluções inovadoras que impactem positivamente a vida das pessoas. Inicialmente formado em Engenharia Civil, atuei nessa área desde 2017, fundando e gerenciando minha própria empresa, a LX Engenharia. No entanto, senti a necessidade de fazer uma transição de carreira e mergulhei no mundo do Desenvolvimento Web FullStack ao ingressar na Trybe, uma renomada escola que me proporcionou conhecimentos sólidos em HTML, Javascript, React, Git, Docker, MySQL, Typescript, Node.js e outras tecnologias FullStack.
+
+Atualmente, estou avançando nos estudos na Trybe, tendo concluído um ano do curso em desenvolvimento web fullstack, e agora estou cursando o módulo de certificação eletiva em Java, abordando o desenvolvimento de APIs Rest utilizando a linguagem de programação Java e o ecossistema Spring.
+A certificação é dividida em sete seções, que abordam os principais conceitos e as principais práticas do desenvolvimento de APIs Rest utilizando Java e o ecossistema Spring. .
+
+Além disso, estou no primeiro semestre do curso de Ciência de Dados na faculdade Univesp, ampliando meu leque de habilidades com aprendizado de máquina, mineração de dados e redes neurais.
+
+Estou entusiasmado em aplicar minha paixão pela tecnologia, habilidades de desenvolvimento e conhecimentos em projetos desafiadores, contribuindo para o sucesso de equipes e organizações inovadoras. Estou aberto a oportunidades que me permitam crescer profissionalmente e fazer a diferença.
+
 
 
 
@@ -33,6 +38,9 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Tailwind.CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ## Other skills:
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
@@ -46,9 +54,9 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 
 ## Currently studying:
 
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Tailwind.CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
@@ -64,8 +72,8 @@ Já tendo me formado nos módulos de fundamentos e de Front-End, estou cursando 
 
 
 ## Future knowledge learned:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
 
 
