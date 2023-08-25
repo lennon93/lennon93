@@ -54,9 +54,9 @@ Estou entusiasmado em aplicar minha paixão pela tecnologia, habilidades de dese
 
 ## Currently studying:
 
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=red&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
