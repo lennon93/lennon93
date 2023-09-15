@@ -3,16 +3,15 @@
 
 # Bem Vindo!
 
-Oi, eu sou o Lennon!
+### Oi, Eu sou o Lennon!
 
- Sou apaixonado por tecnologia e por criar soluções inovadoras que impactem positivamente a vida das pessoas. Inicialmente formado em Engenharia Civil, atuei nessa área desde 2017, fundando e gerenciando minha própria empresa, a LX Engenharia. No entanto, senti a necessidade de fazer uma transição de carreira e mergulhei no mundo do Desenvolvimento Web FullStack ao ingressar na Trybe, uma renomada escola que me proporcionou conhecimentos sólidos em HTML, Javascript, React, Git, Docker, MySQL, Typescript, Node.js e outras tecnologias FullStack.
+Sempre fui apaixonado por tecnologia e inovação, buscando criar soluções que impactem positivamente a vida das pessoas e o mundo como um todo. Meu grande sonho é desenvolver algo que realmente contribua para o bem do planeta. Esse desejo constante de criar e inovar me levou a uma formação prévia em Engenharia Civil. Durante minha jornada como engenheiro, gerenciei meu próprio escritório e liderei a concepção de diversos projetos.
 
-Atualmente, estou avançando nos estudos na Trybe, tendo concluído um ano do curso em desenvolvimento web fullstack, e agora estou cursando o módulo de certificação eletiva em Java, abordando o desenvolvimento de APIs Rest utilizando a linguagem de programação Java e o ecossistema Spring.
-A certificação é dividida em sete seções, que abordam os principais conceitos e as principais práticas do desenvolvimento de APIs Rest utilizando Java e o ecossistema Spring. .
+Entretanto, no ano passado, decidi realizar uma transição de carreira. Durante esse período, dediquei-me intensamente aos estudos de Desenvolvimento Web Fullstack na Trybe. Este curso, focado na prática me proporcionou uma formação completa. Nele, adquiri conhecimentos desde os fundamentos até as tecnologias mais recentes em Frontend e Backend. Além disso, aprendi a lidar com Bancos de Dados, containerizar aplicações com o Docker, fazer controle de versão com o git e aprofundei-me em Ciência da Computação, compreendendo algoritmos e desenvolvendo projetos altamente eficientes. Atualmente, estou cursando o módulo de certificação eletiva em Java, onde abordo o desenvolvimento de APIs Rest, utilizando a linguagem de programação Java e o ecossistema Spring.
 
-Além disso, estou no primeiro semestre do curso de Ciência de Dados na faculdade Univesp, ampliando meu leque de habilidades com aprendizado de máquina, mineração de dados e redes neurais.
+Paralelamente a isso, iniciei uma graduação em Tecnologia da Informação na Univesp, uma faculdade pública a distância. Além disso, estou participando de um bootcamp de 3 meses focado em Java mais Angular, como parte de uma bolsa que obtive para estudar na Dio, em parceria com o Santander.
 
-Estou entusiasmado em aplicar minha paixão pela tecnologia, habilidades de desenvolvimento e conhecimentos em projetos desafiadores, contribuindo para o sucesso de equipes e organizações inovadoras. Estou aberto a oportunidades que me permitam crescer profissionalmente e fazer a diferença.
+Estou profundamente entusiasmado em aplicar minha paixão pela tecnologia, minhas habilidades de desenvolvimento e meu conhecimento em projetos desafiadores. Tenho o desejo sincero de contribuir para o sucesso de equipes e organizações inovadoras.
 
 
 
