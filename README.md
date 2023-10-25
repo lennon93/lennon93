@@ -57,6 +57,7 @@ Estou profundamente entusiasmado em aplicar minha paixão pela tecnologia, minha
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ## Tools:
@@ -72,8 +73,9 @@ Estou profundamente entusiasmado em aplicar minha paixão pela tecnologia, minha
 
 ## Future knowledge learned:
 
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-aws-cdk-0D1117?style=for-the-badge&logo=aws-cdk&labelColor=0D1117)&nbsp;
 
 
 
